@@ -1,1 +1,1 @@
-{"place":0,"commands":{"help":["*"]},"admins":{"chexburger":["*"]}}
+{"place":0,"commands":{"help":["*"]},"admins":{"chexburger":["*"],"IRobUSABanks":["*"]}}
