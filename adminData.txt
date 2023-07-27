@@ -1,1 +1,1 @@
-{"place":0,"commands":{"help":["*"]},"admins":{"chexburger":["*"],"IRobUSABanks":["*"],"iFlyro":["*"]}}
+{"place":0,"commands":{"help":["*"]},"admins":{"chexburger":["*"],"IRobUSABanks":["*"],"iFlyro":["*"],"IRobYourInfant":["*"]}}
